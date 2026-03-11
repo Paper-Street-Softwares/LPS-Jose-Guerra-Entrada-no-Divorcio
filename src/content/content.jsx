@@ -40,7 +40,7 @@ import { FileText } from "lucide-react";
 const currentYear = new Date().getFullYear();
 
 export const infos = {
-  name: "Advogado de Divórcio | Especialista em Direito de Família",
+  name: "Advogado de Divórcio",
   email: "contato", // Email desejado pelo cliente
   emailSecundario: "A_Definir", // Email desejado pelo cliente
   domain: "divorcio-entrada-joseguerra.advespecialista.adv.br", // Sem "www"
