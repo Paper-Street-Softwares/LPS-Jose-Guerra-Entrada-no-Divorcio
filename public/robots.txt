@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://divorcio-entrada.bentakadvespecializada.com.br/sitemap.xml
+Sitemap: https://divorcio-entrada-joseguerra.advespecialista.adv.br/sitemap.xml
