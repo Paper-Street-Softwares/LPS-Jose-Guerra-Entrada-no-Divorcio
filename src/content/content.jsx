@@ -122,18 +122,19 @@ const content = {
       ctaButtonTextResponsive: "Contato",
     },
     hero: {
-      miniTag: "DAR ENTRADA NO DIVÓRCIO ONLINE",
-      FirstPart: <span></span>,
+      miniTag: "ADVOGADO PARA ENTRAR COM DIVÓRCIO",
+      FirstPart: <span>Chega de adiar:</span>,
       Destaque: (
         <span className="relative italic font-light destaque">
-          DIVÓRCIO ONLINE
+          Dê entrada no seu divórcio
         </span>
       ),
-      SecondPart: <span>— RÁPIDO, SEGURO E SEM SAIR DE CASA</span>,
+      SecondPart: <span>e volte a ter paz</span>,
       subtitle: (
         <p>
-          Resolva seu divórcio com ajuda de Advogado Especialista, tudo pela
-          internet, sem conflitos e sem burocracias desnecessárias.
+          Pare de viver preso a um casamento que já acabou e resolva seu
+          divórcio com o auxílio de uma Advogada que focará em fazer tudo de
+          forma rápida e sem conflitos.
         </p>
       ),
       heroDefaultImage: heroDefaultImg,
@@ -142,12 +143,12 @@ const content = {
       alt: "Imagem ilustrativa da Seção Início",
       ctaButtonAriaLabel:
         "Botão para chamada de ação para contato pelo whatsapp",
-      ctaButtonText: "Falar com Advogado no WhatsApp",
+      ctaButtonText: "Falar com Advogado agora mesmo",
       ctaButtonTextSecondary: "A_Definir",
       obsHero: {
         icon: <LucideIdCard />,
         iconTwo: <LucideIdCard />,
-        text: "Atendimento direto com Advogado",
+        text: "Processo 100% Online, sem burocracias desnecessárias.",
         textTwo: "Foco em fazer o melhor acordo para você não sair perdendo.",
       },
       secondaryCta: "Contato",
