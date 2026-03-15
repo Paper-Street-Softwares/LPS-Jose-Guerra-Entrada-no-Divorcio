@@ -176,9 +176,9 @@ const content = {
       title: "O que você precisa sobre divórcio online",
       cards: {
         card1: {
-          title: "Isso funciona online mesmo? Não preciso sair de casa?",
+          title: "É possível fazer o divórcio tanto online como presencial?",
           paragraph:
-            "Sim. Todo o atendimento e orientação podem ser feitos online. A análise do seu caso, envio de documentos e acompanhamento do processo são realizados de forma digital. Em muitos casos, o divórcio pode ser concluído sem a necessidade de comparecer presencialmente ao fórum.",
+            "Sim. Todo o atendimento e orientação podem ser feitos tanto presencial como online. A análise do seu caso, envio de documentos e acompanhamento do processo são realizados de forma digital. Em muitos casos, o divórcio pode ser concluído sem a necessidade de comparecer presencialmente ao fórum.",
         },
         card2: {
           title: "Preciso mesmo de advogado para me divorciar?",
