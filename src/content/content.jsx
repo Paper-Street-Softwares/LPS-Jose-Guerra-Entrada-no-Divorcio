@@ -90,7 +90,7 @@ export const infos = {
   tiktokProfile: "",
 
   whatsappDefaultMessage:
-    "Olá! Vim do Google e preciso de ajuda com Divórcio. Quero dar entrada no processo todo online. Como fazemos?",
+    "Olá! Vim do Google e preciso de ajuda com Divórcio. Quero dar entrada. Como fazemos?",
   whatsChatDefaultMessage:
     "Gostaria de falar conosco agora mesmo? Clque abaixo 👇",
   slogan: "",
@@ -122,7 +122,7 @@ const content = {
       ctaButtonTextResponsive: "Contato",
     },
     hero: {
-      miniTag: "ADVOGADO PARA ENTRAR COM DIVÓRCIO",
+      miniTag: "ENTRAR COM DIVÓRCIO EM SOROCABA - SP",
       FirstPart: <span>Chega de adiar:</span>,
       Destaque: (
         <span className="relative italic font-light destaque">
@@ -133,7 +133,7 @@ const content = {
       subtitle: (
         <p>
           Pare de viver preso a um casamento que já acabou e resolva seu
-          divórcio com o auxílio de uma Advogada que focará em fazer tudo de
+          divórcio com o auxílio de um Advogado que focará em fazer tudo de
           forma rápida e sem conflitos.
         </p>
       ),
@@ -148,7 +148,7 @@ const content = {
       obsHero: {
         icon: <LucideIdCard />,
         iconTwo: <LucideIdCard />,
-        text: "Processo 100% Online, sem burocracias desnecessárias.",
+        text: "Atendimento Online e Presencial em Sorocaba - SP.",
         textTwo: "Foco em fazer o melhor acordo para você não sair perdendo.",
       },
       secondaryCta: "Contato",
