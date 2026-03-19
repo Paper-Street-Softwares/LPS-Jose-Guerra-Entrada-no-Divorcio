@@ -122,7 +122,7 @@ const content = {
       ctaButtonTextResponsive: "Contato",
     },
     hero: {
-      miniTag: "ENTRAR COM DIVÓRCIO EM SOROCABA - SP",
+      miniTag: "ENTRAR COM DIVÓRCIO",
       FirstPart: <span>Chega de adiar:</span>,
       Destaque: (
         <span className="relative italic font-light destaque">
@@ -148,7 +148,7 @@ const content = {
       obsHero: {
         icon: <LucideIdCard />,
         iconTwo: <LucideIdCard />,
-        text: "Atendimento Online e Presencial em Sorocaba - SP.",
+        text: "Atendimento Online e Presencial em .",
         textTwo: "Foco em fazer o melhor acordo para você não sair perdendo.",
       },
       secondaryCta: "Contato",
